@@ -26,4 +26,4 @@ Rev 1.3.207 and higher, you can add following switches to the command line to tu
 16. libusb
 17. libusbonly 
 
-By default, only arduino, libusb and udp are enabled.
+By default, arduino, libusb, noxport, noftdi, udp, norabbit are ON.
